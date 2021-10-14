@@ -1,0 +1,35 @@
+#container {
+    background-color: black;
+    margin: 0px auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#container img {
+    width: 800px;
+    height: 800px;
+}
+#container .row1 {
+    background-color:turquoise;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 120px;
+    padding: 80px;
+}
+#container .row2 {
+    background-color:lightgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 120px;
+    padding: 80px;
+}
+#container .row3 {
+    background-color: lightsalmon;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 120px;
+    padding: 80px;
+}
+
